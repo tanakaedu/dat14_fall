@@ -16,6 +16,10 @@ dat14_fall
 - [CodeZine チュートリアル](http://codezine.jp/article/detail/8051)
  - 無料の会員登録が必要]
 
+# [paiza.io](http://paiza.io)
+- 24種類のプログラミング言語をWebブラウザ上で実行できるサービス
+- アウトプットは現在はテキストベースのようだが、Twitterなどとの連携が可能
+
 # 東京インディーゲームフェスティバル2015
 - [東京インディーゲームフェスティバル2015](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=1337)
 
