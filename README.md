@@ -25,3 +25,5 @@ dat14_fall
 
 # クラスとは(1年生)
 
+# リンク
+- [Internatioal Game Developers Association Japan](www.igda.jp)
