@@ -3,6 +3,10 @@ dat14_fall
 
 専門学校デジタルアーツ東京秋学期の資料。
 
+# 1年生用の資料
+- [7回目](https://github.com/tanakaedu/dat14_fall/wiki/1%E5%B9%B407)
+
+
 # 勉強会 - connpass
 - [第三回　Unity研究会 ](http://connpass.com/event/10249/)
 - [リアルタイム通信が10倍楽しくなる2014年最後の勉強会！milkcocoa meetup! #1](http://mlkcca.connpass.com/event/9891/)
