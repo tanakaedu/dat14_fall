@@ -5,6 +5,9 @@ dat14_fall
 
 # 1年生用の資料
 - [7回目](https://github.com/tanakaedu/dat14_fall/wiki/1%E5%B9%B407)
+- 8回目
+ - クラスの資料を使って、アクセス修飾子、継承、ポリモーフィズム(projClass08)
+ - milkcocoa。GitHub PagesはメールをVerifyしないと使えなかったので、認証して、その後、改めてpagesを作るために、新しいリポジトリを作成して右下のSettingsから、[Automatic Page Generator]でぺーじを作成。十分ほど待つ。
 
 
 # 勉強会 - connpass
