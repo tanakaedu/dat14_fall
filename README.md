@@ -10,6 +10,10 @@ dat14_fall
  - milkcocoa。GitHub PagesはメールをVerifyしないと使えなかったので、認証して、その後、改めてpagesを作るために、新しいリポジトリを作成して右下のSettingsから、[Automatic Page Generator]でぺーじを作成。十分ほど待つ。
 
 
+# News
+- [湯川 鶴章 人工知能が急に進化し始めた！](http://thewave.jp/archives/1985)
+
+
 # 勉強会 - connpass
 - [第三回　Unity研究会 ](http://connpass.com/event/10249/)
 - [リアルタイム通信が10倍楽しくなる2014年最後の勉強会！milkcocoa meetup! #1](http://mlkcca.connpass.com/event/9891/)
