@@ -9,10 +9,13 @@ dat14_fall
  - クラスの資料を使って、アクセス修飾子、継承、ポリモーフィズム(projClass08)
  - milkcocoa。GitHub PagesはメールをVerifyしないと使えなかったので、認証して、その後、改めてpagesを作るために、新しいリポジトリを作成して右下のSettingsから、[Automatic Page Generator]でぺーじを作成。十分ほど待つ。
 - 9回目
- - 
+ - クラスを使ったシーン管理。switchをなくす
 - 10,11回目
  - Milkcocoaを使って、Unityでリアルタイムに影響を与えあうアプリの開発
- - 
+- 12回目
+ - JINS MEME DEVELOPERSの紹介
+ - 前回のプログラムをゲーム化してみる。相撲など
+
 
 # News
 - [JINS MEME DEVELOPERS](http://developers.jins.com/ja/)
