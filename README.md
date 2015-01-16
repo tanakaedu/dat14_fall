@@ -22,10 +22,6 @@ dat14_fall
 - [湯川 鶴章 人工知能が急に進化し始めた！](http://thewave.jp/archives/1985)
 
 
-# 勉強会 - connpass
-- [第三回　Unity研究会 ](http://connpass.com/event/10249/)
-- [リアルタイム通信が10倍楽しくなる2014年最後の勉強会！milkcocoa meetup! #1](http://mlkcca.connpass.com/event/9891/)
-
 # milkcocoa
 - UnityのWebプレイヤーと組み合わせて、簡単なゲーム+チャットページを作成する
 - チャット内容をUnityで読み取って、プログラムに反映させることもできそう。調査してみよう。
@@ -48,4 +44,6 @@ dat14_fall
 - [Internatioal Game Developers Association Japan](http://www.igda.jp)
 - [Goo Create](http://www.goocreate.com/)
  - ブラウザ上で、インターラクティブな3D作品を開発できるWebサービス
+# [connpass - 勉強会などのいべんｔ情報イベント](http://connpass.com/)
+
 
