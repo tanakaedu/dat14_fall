@@ -20,7 +20,7 @@ dat14_fall
 # News
 - [JINS MEME DEVELOPERS](http://developers.jins.com/ja/)
 - [湯川 鶴章 人工知能が急に進化し始めた！](http://thewave.jp/archives/1985)
-
+- [connpass milkcocoa meetup #2 2/16 19:30](http://mlkcca.connpass.com/event/11212/)
 
 # milkcocoa
 - UnityのWebプレイヤーと組み合わせて、簡単なゲーム+チャットページを作成する
