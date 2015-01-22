@@ -15,6 +15,9 @@ dat14_fall
 - 12回目
  - JINS MEME DEVELOPERSの紹介
  - 前回のプログラムをゲーム化してみる。相撲など
+- 13回目
+ - 倒れた判定。内積の利用
+ - JINS MEMEの企画ブレスト
 
 
 # News
