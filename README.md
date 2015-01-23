@@ -18,7 +18,14 @@ dat14_fall
 - 13回目
  - ジャンプ
 - 14回目
- - mecanim
+ - Mecanimや移動の再調整
+- 今後の作業予定
+ - ダミーの敵を出す
+ - ぶつかった時に跳ね飛ぶようにする
+ - 空中の操作を変更
+ - ミスを実装
+ - Milkcocoaで通信可能にする
+- おまけ(とりあえずゲームを完成させてからにする)
  - 倒れた判定。内積の利用 - [Unity3dのベクトル説明](http://docs-jp.unity3d.com/Documentation/Manual/UnderstandingVectorArithmetic.html) / [Vector3.Dot()のリファレンス](http://docs.unity3d.com/ScriptReference/Vector3.Dot.html)
 
  - JINS MEMEの企画ブレスト
