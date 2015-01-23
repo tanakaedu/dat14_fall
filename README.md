@@ -16,7 +16,7 @@ dat14_fall
  - JINS MEME DEVELOPERSの紹介
  - 前回のプログラムをゲーム化してみる。相撲など
 - 13回目
- - 倒れた判定。内積の利用
+ - 倒れた判定。内積の利用 - [Unity3dのベクトル説明](http://docs-jp.unity3d.com/Documentation/Manual/UnderstandingVectorArithmetic.html) / [Vector3.Dot()のリファレンス](http://docs.unity3d.com/ScriptReference/Vector3.Dot.html)
  - JINS MEMEの企画ブレスト
 
 
