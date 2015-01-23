@@ -27,7 +27,6 @@ dat14_fall
  - Milkcocoaで通信可能にする
 - おまけ(とりあえずゲームを完成させてからにする)
  - 倒れた判定。内積の利用 - [Unity3dのベクトル説明](http://docs-jp.unity3d.com/Documentation/Manual/UnderstandingVectorArithmetic.html) / [Vector3.Dot()のリファレンス](http://docs.unity3d.com/ScriptReference/Vector3.Dot.html)
-
  - JINS MEMEの企画ブレスト
 
 
