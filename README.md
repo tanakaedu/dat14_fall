@@ -39,6 +39,7 @@ dat14_fall
 # milkcocoa
 - UnityのWebプレイヤーと組み合わせて、簡単なゲーム+チャットページを作成する
 - チャット内容をUnityで読み取って、プログラムに反映させることもできそう。調査してみよう。
+- [PCにストリートビュー+スマホに地図](http://alfe.hateblo.jp/entry/streetview%2Bmilkcocoa)
 
 # Heroku(ヘロク)
 - [アインシュタインの電話暗号 HerokuでWebアプリ開発を始めるなら知っておきたいこと(1) 無料のスペック](http://blog.ruedap.com/2011/04/29/ruby-heroku-web-app-development-tips-1)
