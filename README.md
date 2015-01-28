@@ -31,9 +31,10 @@ dat14_fall
 
 
 # News
+- [学生向けセミナー「わたしの就職活動」](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=1334)
+- [connpass milkcocoa meetup #2 2/16 19:30](http://mlkcca.connpass.com/event/11212/)
 - [JINS MEME DEVELOPERS](http://developers.jins.com/ja/)
 - [湯川 鶴章 人工知能が急に進化し始めた！](http://thewave.jp/archives/1985)
-- [connpass milkcocoa meetup #2 2/16 19:30](http://mlkcca.connpass.com/event/11212/)
 
 # milkcocoa
 - UnityのWebプレイヤーと組み合わせて、簡単なゲーム+チャットページを作成する
