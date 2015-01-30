@@ -59,6 +59,6 @@ dat14_fall
 - [Internatioal Game Developers Association Japan](http://www.igda.jp)
 - [Goo Create](http://www.goocreate.com/)
  - ブラウザ上で、インターラクティブな3D作品を開発できるWebサービス
-# [connpass - 勉強会などのいべんｔ情報イベント](http://connpass.com/)
+- [connpass - 勉強会などのイベント情報](http://connpass.com/)
 
 
