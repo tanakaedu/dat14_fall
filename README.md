@@ -21,7 +21,7 @@ dat14_fall
  - Mecanimや移動の再調整
  - NPC作成の準備のためにCPlayerBaseを作成
 - 15回目
- - (React.jsの紹介](https://egghead.io/lessons/react-react-in-7-minutes)
+ - [React.jsの紹介](https://egghead.io/lessons/react-react-in-7-minutes)
  - NPCの作成
  - 弾き処理
 - 今後の作業予定
