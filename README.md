@@ -65,5 +65,5 @@ dat14_fall
 - [Goo Create](http://www.goocreate.com/)
  - ブラウザ上で、インターラクティブな3D作品を開発できるWebサービス
 - [connpass - 勉強会などのイベント情報](http://connpass.com/)
-
+- [schooのデザイナーに聞いた、Webサイト制作に使えるフリーアイコン5選](https://schoo.jp/design/article/77?ref=nlw5)
 
