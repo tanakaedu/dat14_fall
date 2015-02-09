@@ -67,3 +67,5 @@ dat14_fall
 - [connpass - 勉強会などのイベント情報](http://connpass.com/)
 - [schooのデザイナーに聞いた、Webサイト制作に使えるフリーアイコン5選](https://schoo.jp/design/article/77?ref=nlw5)
 - [Webで使えるHTML,CSS,JavaScriptエディタ](http://www.chrome-life.com/html5/5447/)
+- [Bracketsの機能紹介、使い方解説【Ver.1.1対応】](http://qiita.com/assialiholic/items/c8137321c7599a168b16)
+
