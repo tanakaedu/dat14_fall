@@ -25,10 +25,9 @@ dat14_fall
  - NPCの作成
 - 16回目
  - [Milkcocoaのオセロ](https://github.com/showsuzu/Othello_with_milkcocoa)
- - 弾き処理
- - Milkcocoaとの連携
+ - [弾き処理](https://github.com/tanakaedu/dat14_fall/wiki/1%E5%B9%B416%E5%9B%9E%E3%80%80%E5%BC%BE%E3%81%8D%E9%A3%9B%E3%81%B0%E3%81%99)
 - 今後の作業予定
- - ぶつかった時に跳ね飛ぶようにする
+ - Milkcocoaとの連携
  - ミスを実装
 - おまけ(とりあえずゲームを完成させてからにする)
  - 倒れた判定。内積の利用 - [Unity3dのベクトル説明](http://docs-jp.unity3d.com/Documentation/Manual/UnderstandingVectorArithmetic.html) / [Vector3.Dot()のリファレンス](http://docs.unity3d.com/ScriptReference/Vector3.Dot.html)
