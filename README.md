@@ -23,13 +23,12 @@ dat14_fall
 - 15回目
  - [React.jsの紹介](https://egghead.io/lessons/react-react-in-7-minutes)
  - NPCの作成
+- 16回目
  - 弾き処理
+ - Milkcocoaとの連携
 - 今後の作業予定
- - ダミーの敵を出す
  - ぶつかった時に跳ね飛ぶようにする
- - 空中の操作を変更
  - ミスを実装
- - Milkcocoaで通信可能にする
 - おまけ(とりあえずゲームを完成させてからにする)
  - 倒れた判定。内積の利用 - [Unity3dのベクトル説明](http://docs-jp.unity3d.com/Documentation/Manual/UnderstandingVectorArithmetic.html) / [Vector3.Dot()のリファレンス](http://docs.unity3d.com/ScriptReference/Vector3.Dot.html)
  - JINS MEMEの企画ブレスト
