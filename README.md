@@ -68,3 +68,5 @@ dat14_fall
 - [Webで使えるHTML,CSS,JavaScriptエディタ](http://www.chrome-life.com/html5/5447/)
 - [Bracketsの機能紹介、使い方解説【Ver.1.1対応】](http://qiita.com/assialiholic/items/c8137321c7599a168b16)
  - HTML Templatesをインストールすると楽。ファイル＞拡張機能マネージャからインストールして、編集メニューの一番下に追加される
+- [SWITCH SCIENCE. オープンソースの自作マイコンチップArduino(アルデュイーノ)](https://www.switch-science.com/catalog/789/)
+- [株式会社武蔵野電波 Arduino. 日本語リファレンス](http://www.musashinodenpa.com/arduino/ref/)
