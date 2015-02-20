@@ -106,7 +106,7 @@ chatDataStore.on("send",function(data){
     );
 
     // 更新されていたらスコアテーブルを再描画する
-    if (isupdate) {
+    if (isupdate && (board != null)) {
       var tbl = "";
       for (var i=0 ; i<scores.length ; i++) {
         tbl += "<tr><td>"+scores[i].scname+"</td><td>"+scores[i].score+"</td>";
